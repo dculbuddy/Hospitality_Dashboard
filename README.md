@@ -3,7 +3,8 @@ This Power BI Project is based on the hospitality management system in a hotel c
 
 **Acknowledgement:** This is basically a guided project based on the hospitality management project I found on YouTube from CodeBasics Channel. The project was well elaborated by Daval Sir and Hemanand Sir on YouTube from that project I took the ideas for all he key metrics needed and improvised the project to create my own version of it.
 
-![image](https://github.com/user-attachments/assets/67678b66-bfcd-41d9-8cfb-a705bb41e5c8)
+![image](https://github.com/user-attachments/assets/b2b6cd2f-f7ac-4e31-9774-6ea3f0912ef8)
+
 
 
 **Key Features:**
