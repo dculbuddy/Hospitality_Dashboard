@@ -8,7 +8,14 @@ This Power BI Project is based on the hospitality management system in a hotel c
 
 **Key Features:**
 >**1. Real-time Data:** The dashboard updates automatically, ensuring the data is always current.
+>**ToolTip:** All the KPIs have a tool tip feature which will show their timely trend while hovering the mouse pointer on them. Like shown below while hovering the mouse pinter on ADR it will show its trend for both business and luxery category of hotels.
 >
+>![image](https://github.com/user-attachments/assets/a482eb40-b60d-4d64-8972-c48462b5db86)
+
+>**Week on Week Change:** For every KPI there is a week on week change indicator below which will show if it has been increased or decreased comparing on previous week an arrow is also there to denote that. Like below total revenue is showing down by 98.8% than the previous week.
+>
+>![image](https://github.com/user-attachments/assets/5b99cea9-4077-4621-aaae-8b58e7e63763)
+
 >**2. Key Performance Indicators (KPI):** Key insights and performance indicators highlighted for quick decision-making.
 >
 >>**Total Revenue:** It shows the total revenue earns by the hotels.
